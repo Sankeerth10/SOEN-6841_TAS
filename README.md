@@ -5,4 +5,4 @@
 
 **Student ID: 40195685** 
 
-**Topic 79 : How do I keep my project from slipping? If it does, how do I recoverits schedule?**
+**Topic 79 : How do I keep my project from slipping? If it does, how do I recover its schedule?**
